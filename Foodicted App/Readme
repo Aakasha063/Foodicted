@@ -1,0 +1,11 @@
+IMPORTANT INSTRUCTIONS TO RUN FOODICTED
+
+Admin login details are :
+           self.username = 'restra123'
+           self.password = 'welcome'
+      
+User Login Details are available in user_reg_data.csv
+
+Open all of the mentioned files in cwd before running the program.
+
+To run the program, run main.py file and choose displayed options accordingly.
